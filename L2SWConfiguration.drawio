@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T00:33:37.940Z" agent="5.0 (X11; CrOS aarch64 13729.56.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.95 Safari/537.36" etag="dHySyHbAjuoCIASuWzK6" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T00:44:57.466Z" agent="5.0 (X11; CrOS aarch64 13729.56.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.95 Safari/537.36" etag="Iz9B87EzV-3lT5oM3SzX" version="14.6.1" type="github">
   <diagram id="7wLTs8ti_w2qS4k10klG" name="Page-1">
-    <mxGraphModel dx="383" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="498" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5V7owRSj-AME9JgfiHuK-22" value="サーバー室" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
+          <mxGeometry x="570" y="60" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="5V7owRSj-AME9JgfiHuK-21" value="回線室" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="315" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="5V7owRSj-AME9JgfiHuK-16" value="光" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="5V7owRSj-AME9JgfiHuK-1" target="5V7owRSj-AME9JgfiHuK-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -60,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5V7owRSj-AME9JgfiHuK-15" value="patch panel" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" vertex="1" parent="1">
-          <mxGeometry x="570" y="127.5" width="100" height="35" as="geometry" />
+          <mxGeometry x="590" y="127.5" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5V7owRSj-AME9JgfiHuK-18" value="Firewall" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
           <mxGeometry x="710" y="95" width="100" height="100" as="geometry" />
